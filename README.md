@@ -1,5 +1,4 @@
 # Hi, I'm Thanabodee Sawatdee 👋
-# My Nick Name Teammy Or TeammyNo1 Haha
 
 ### Software Developer | AI & Web Development | Business Process Automation
 
