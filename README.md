@@ -131,8 +131,6 @@ My approach is:
 
 💼 LinkedIn: https://www.linkedin.com/in/thanabodee-s
 
-📞 Phone: (+66) 636756095
-
 ---
 
 ⭐ Thanks for visiting my profile!
