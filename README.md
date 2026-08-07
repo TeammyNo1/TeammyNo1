@@ -129,7 +129,7 @@ My approach is:
 
 📧 Email: thanabodee.swd@gmail.com
 
-💼 LinkedIn: linkedin.com/in/thanabodee-s
+💼 LinkedIn: https://www.linkedin.com/in/thanabodee-s
 
 📞 Phone: (+66) 636756095
 
