@@ -125,22 +125,13 @@ My approach is:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeammyNo1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeammyNo1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: thanabodee.swd@gmail.com
 
 💼 LinkedIn: linkedin.com/in/thanabodee-s
 
-💻 GitHub: github.com/TeammyNo1
+📞 Phone: (+66) 636756095
 
 ---
 
