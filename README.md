@@ -51,23 +51,6 @@ Git • GitHub • VS Code • Postman • Docker
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏭 QC Recheck Management System
-Internal web application for managing QC Recheck processes.
-
-**Technology:** PHP • JavaScript • HTML • CSS • SQL Server
-
-- Real-time Recheck status tracking
-- Batch / Employee Card scanning
-- OK / NG result management
-- Recheck history
-- Role-based access
-- Dashboard & reporting
-- Digital workflow to reduce manual paperwork
-
----
-
 ### 🤖 Vision AI Object Detection
 Real-time object detection application for industrial parts.
 
