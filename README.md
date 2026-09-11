@@ -102,15 +102,6 @@ I care about the part before the code, too. Understanding how people actually wo
 | Secure web development | AI-assisted development |
 | API integration | Frontend performance |
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TeammyNo1&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeammyNo1&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Contribution graph" width="100%"/>
-</p>
-
 ## How I Work
 
 Understand the problem → analyze the process → design the system → build → test → improve.
