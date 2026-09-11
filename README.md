@@ -105,8 +105,10 @@ I care about the part before the code, too. Understanding how people actually wo
 ## GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TeammyNo1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeammyNo1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=TeammyNo1&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeammyNo1&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Contribution graph" width="100%"/>
 </p>
 
 ## How I Work
