@@ -1,33 +1,129 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Thanabodee%20Sawatdee&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Data%20Visualization&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Thanabodee%20Sawatdee&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=IT%20Industry%204.0%20%C2%B7%20MES%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Engineer&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Thanabodee Sawatdee header banner"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Engineering+AI+%26+computer+vision+systems;Turning+data+into+decision-ready+dashboards;Automating+business+processes+end-to-end" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Developing+IT+solutions+for+Industry+4.0;Supporting+Manufacturing+Execution+Systems;Connecting+production+processes+with+technology;Building+full-stack+and+AI-powered+applications;Turning+manufacturing+data+into+actionable+insights" alt="Professional roles and expertise"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanabodee-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:thanabodee.swd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/thanabodee-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:**********.***@*****.***">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/IT-Industry_4.0-0F766E?style=for-the-badge" alt="IT Industry 4.0"/>
   <img src="https://img.shields.io/badge/Open_to_Opportunities-22C55E?style=for-the-badge" alt="Open to opportunities"/>
 </p>
 
 <br/>
 
-## About
+## About Me
 
-Hi, I'm Thanabodee — a software developer with a B.Sc. in Computer and Information Science. I work across the full stack: the interface someone clicks on, the API and database behind it, and the AI model or dashboard that makes sense of the data it produces.
+Hi, I'm **Thanabodee Sawatdee** — an IT Industry 4.0 professional and software developer with a B.Sc. in Computer and Information Science.
 
-Most of what I build lives inside a business — internal web systems, reporting dashboards, and tools that turn a manual process into an automated one. I've also spent a good amount of time on computer vision, using YOLO and OpenCV to detect industrial parts from a live camera feed.
+I work at the intersection of **information technology and manufacturing**, supporting digital transformation through Manufacturing Execution Systems (MES), internal web applications, production data integration, reporting dashboards, process automation, and AI-powered solutions.
 
-I care about the part before the code, too. Understanding how people actually work usually tells me more about what to build than the spec does.
+My technical experience covers the full development lifecycle — from understanding business and production requirements to designing interfaces and databases, developing APIs and applications, testing with users, deploying solutions, and continuously improving system performance.
+
+I also have experience developing computer vision solutions using **YOLO** and **OpenCV** for detecting and recognizing industrial parts through live camera feeds.
+
+I believe that understanding how people actually work is just as important as writing code. My goal is to transform real operational problems into practical, reliable, and user-friendly digital solutions.
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>Frontend</b><br/><sub>React · Next.js · Responsive UI</sub></td>
-    <td align="center" width="25%"><b>Backend</b><br/><sub>Node.js · Express · .NET · REST APIs</sub></td>
-    <td align="center" width="25%"><b>AI Engineer</b><br/><sub>YOLO · OpenCV · TensorFlow · PyTorch</sub></td>
-    <td align="center" width="25%"><b>Data Visualization</b><br/><sub>Power BI · DAX · KPI Dashboards</sub></td>
+    <td align="center" width="25%">
+      <b>Industry 4.0</b>
+      <br/>
+      <sub>MES · Digital Transformation<br/>Process Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Software Engineering</b>
+      <br/>
+      <sub>Full-Stack · REST APIs<br/>Database Design</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>AI & Computer Vision</b>
+      <br/>
+      <sub>YOLO · OpenCV<br/>Industrial Inspection</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Data & Analytics</b>
+      <br/>
+      <sub>Power BI · SQL<br/>KPI Dashboards</sub>
+    </td>
   </tr>
 </table>
+
+---
+
+## IT Industry 4.0 & MES
+
+I support manufacturing digitalization by connecting **production processes, people, systems, and data** through practical IT solutions.
+
+### What is MES?
+
+**MES** stands for **Manufacturing Execution System**.
+
+It is a software system used in manufacturing environments to monitor, control, track, and record production processes in real time — from raw materials and work orders through each production operation until the finished product is completed.
+
+MES helps bridge the gap between business-level systems and shop-floor operations by providing accurate production information to operators, engineers, supervisors, and management.
+
+### My Areas of Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Production Visibility</h4>
+      <p>Monitoring production status, work orders, output, downtime, and operational performance.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>System Integration</h4>
+      <p>Connecting manufacturing systems with databases, APIs, internal applications, and reporting tools.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Process Automation</h4>
+      <p>Replacing repetitive manual workflows with reliable, efficient, and traceable digital processes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Production Traceability</h4>
+      <p>Supporting the tracking of materials, work orders, production history, and finished products.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Data Visualization</h4>
+      <p>Transforming production data into dashboards, KPIs, reports, and actionable insights.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Continuous Improvement</h4>
+      <p>Using user feedback and operational data to improve system usability, reliability, and performance.</p>
+    </td>
+  </tr>
+</table>
+
+### Manufacturing Digitalization
+
+```text
+Raw Materials
+      │
+      ▼
+Production Planning
+      │
+      ▼
+Work Orders & Shop Floor Operations
+      │
+      ▼
+MES Data Collection & Traceability
+      │
+      ▼
+Quality Control & Production Monitoring
+      │
+      ▼
+Finished Products
+      │
+      ▼
+Dashboards, KPIs & Decision Support
+```
 
 ---
 
@@ -35,36 +131,74 @@ I care about the part before the code, too. Understanding how people actually wo
 
 <table>
   <tr>
+    <td><b>Industry 4.0 / MES</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MES-Manufacturing_Execution-0F766E?style=for-the-badge" height="36" alt="MES"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Industry_4.0-Digital_Manufacturing-0369A1?style=for-the-badge" height="36" alt="Industry 4.0"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Process_Automation-7C3AED?style=for-the-badge" height="36" alt="Process Automation"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" height="36"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" height="36" alt="Frontend technologies"/>
+    </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,dotnet" height="36"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,dotnet" height="36" alt="Backend technologies"/>
+    </td>
   </tr>
   <tr>
     <td><b>AI / Computer Vision</b></td>
-    <td><img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="36"/>&nbsp;<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black" height="36"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="36" alt="AI technologies"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black" height="36" alt="YOLOv8"/>
+    </td>
   </tr>
   <tr>
     <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="36"/>&nbsp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="36"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="36" alt="Database technologies"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="36" alt="SQL Server"/>
+    </td>
   </tr>
   <tr>
     <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio" height="36"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio" height="36" alt="Mobile development technologies"/>
+    </td>
   </tr>
   <tr>
-    <td><b>Data</b></td>
-    <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="36"/>&nbsp;<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="36"/></td>
+    <td><b>Data Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="36" alt="Power BI"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black" height="36" alt="DAX"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="36" alt="Microsoft Excel"/>
+    </td>
   </tr>
   <tr>
     <td><b>Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white" height="36"/>&nbsp;<img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logoColor=white" height="36"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white" height="36" alt="Canva"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logoColor=white" height="36" alt="Procreate"/>
+    </td>
   </tr>
   <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="36"/></td>
+    <td><b>Development Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="36" alt="Development tools"/>
+    </td>
   </tr>
 </table>
 
@@ -75,83 +209,241 @@ I care about the part before the code, too. Understanding how people actually wo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Vision AI Object Detection</h3>
-      <p>Real-time detection and recognition of industrial parts through a live camera feed, packaged in an operator-friendly desktop app.</p>
+      <h3>Manufacturing Execution System Support</h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tkinter-555555?style=flat-square"/>
+        IT solutions for supporting manufacturing operations, production data visibility,
+        process traceability, and communication between shop-floor users and digital systems.
       </p>
-      <sub>✔ Real-time detection &nbsp;✔ Camera control &nbsp;✔ Result visualization</sub>
+      <p>
+        <img src="https://img.shields.io/badge/MES-0F766E?style=flat-square" alt="MES"/>
+        <img src="https://img.shields.io/badge/Industry_4.0-0369A1?style=flat-square" alt="Industry 4.0"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API"/>
+      </p>
+      <sub>
+        ✔ Production support
+        &nbsp;✔ Data integration
+        &nbsp;✔ Process improvement
+      </sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Production Monitoring Dashboard</h3>
+      <p>
+        A manufacturing dashboard designed to provide visibility into production
+        status, operational KPIs, output trends, and process performance.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" alt="DAX"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+      </p>
+      <sub>
+        ✔ Production KPIs
+        &nbsp;✔ Data visualization
+        &nbsp;✔ Decision support
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Vision AI Object Detection</h3>
+      <p>
+        Real-time detection and recognition of industrial parts through a live
+        camera feed, packaged in an operator-friendly desktop application.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/Tkinter-555555?style=flat-square" alt="Tkinter"/>
+      </p>
+      <sub>
+        ✔ Real-time detection
+        &nbsp;✔ Camera control
+        &nbsp;✔ Result visualization
+      </sub>
     </td>
     <td width="50%" valign="top">
       <h3>Business Data Dashboards</h3>
-      <p>Interactive dashboards that turn raw operational data into clear, decision-ready KPI reports.</p>
       <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+        Interactive dashboards that transform raw operational data into clear,
+        useful, and decision-ready KPI reports.
       </p>
-      <sub>✔ Data transformation &nbsp;✔ Interactive KPIs &nbsp;✔ Business reporting</sub>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" alt="DAX"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+      </p>
+      <sub>
+        ✔ Data transformation
+        &nbsp;✔ Interactive KPIs
+        &nbsp;✔ Business reporting
+      </sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Employee Management System</h3>
-      <p>Full-stack web application for managing employee records with secure, role-based access.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        A full-stack web application for managing employee records with secure,
+        role-based access and structured CRUD workflows.
       </p>
-      <sub>✔ CRUD workflows &nbsp;✔ Role-based access &nbsp;✔ REST API</sub>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <sub>
+        ✔ CRUD workflows
+        &nbsp;✔ Role-based access
+        &nbsp;✔ REST API
+      </sub>
     </td>
     <td width="50%" valign="top">
       <h3>Phone Number Management App</h3>
-      <p>Native Android application for storing and managing contact data with real-time cloud sync.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        A native Android application for storing and managing contact information
+        with real-time cloud database synchronization.
       </p>
-      <sub>✔ Add / edit / delete &nbsp;✔ Realtime Database sync</sub>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+      </p>
+      <sub>
+        ✔ Add, edit, and delete
+        &nbsp;✔ Realtime Database sync
+      </sub>
     </td>
   </tr>
 </table>
 
 ---
 
+## Professional Focus
+
+> Bridging the gap between manufacturing operations and information technology.
+
+My goal is to build systems that make production processes more visible, traceable, efficient, and easier to manage.
+
+I believe successful Industry 4.0 solutions are not only about adopting new technologies — they must solve real operational problems and be practical for the people who use them every day.
+
+- Understand real manufacturing workflows before designing a solution
+- Translate production requirements into reliable software
+- Integrate data across systems, applications, and reporting platforms
+- Design practical interfaces for operators and business users
+- Validate solutions through testing, UAT, and user feedback
+- Improve system performance, usability, security, and maintainability
+- Reduce repetitive manual tasks through process automation
+- Transform production data into actionable business insights
+
+---
+
 ## What I'm Working On
 
-| Engineering | Quality & Process |
+| Manufacturing & Industry 4.0 | Software & Data Engineering |
 |---|---|
-| Software Architecture | Software Testing & UAT |
-| SQL Server Performance Optimization | Business Process Analysis |
-| Secure Web Development | AI-assisted Development |
-| API Integration | Frontend Performance Optimization |
+| Manufacturing Execution Systems | Full-Stack Web Development |
+| Production Process Digitalization | Software Architecture |
+| Production Data Integration | REST API Integration |
+| Manufacturing Traceability | SQL Server Optimization |
+| Process Automation | Secure Web Development |
+| Production Monitoring & KPIs | Power BI & Data Visualization |
+| Requirement Analysis | Software Testing & UAT |
+| Continuous Process Improvement | AI-assisted Development |
+| Shop-floor User Support | Frontend Performance Optimization |
 
 ---
 
 ## How I Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/1-Understand-0EA5E9?style=for-the-badge"/> ➜
-  <img src="https://img.shields.io/badge/2-Analyze-0284C7?style=for-the-badge"/> ➜
-  <img src="https://img.shields.io/badge/3-Design-0369A1?style=for-the-badge"/> ➜
-  <img src="https://img.shields.io/badge/4-Develop-075985?style=for-the-badge"/> ➜
-  <img src="https://img.shields.io/badge/5-Test-0C4A6E?style=for-the-badge"/> ➜
-  <img src="https://img.shields.io/badge/6-Improve-082F49?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/1-Understand-0EA5E9?style=for-the-badge" alt="Understand"/>
+  ➜
+  <img src="https://img.shields.io/badge/2-Analyze-0284C7?style=for-the-badge" alt="Analyze"/>
+  ➜
+  <img src="https://img.shields.io/badge/3-Design-0369A1?style=for-the-badge" alt="Design"/>
+  ➜
+  <img src="https://img.shields.io/badge/4-Develop-075985?style=for-the-badge" alt="Develop"/>
+  ➜
+  <img src="https://img.shields.io/badge/5-Test-0C4A6E?style=for-the-badge" alt="Test"/>
+  ➜
+  <img src="https://img.shields.io/badge/6-Improve-082F49?style=for-the-badge" alt="Improve"/>
 </p>
 
-<p align="center"><i>I'd rather ship something simple that people use every day than something clever that nobody opens.</i></p>
+<p align="center">
+  <i>
+    I'd rather ship something simple that people use every day
+    than something clever that nobody opens.
+  </i>
+</p>
 
 ---
 
+## Development Approach
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <b>01</b>
+      <br/>
+      <sub>Understand users and processes</sub>
+    </td>
+    <td align="center" width="20%">
+      <b>02</b>
+      <br/>
+      <sub>Analyze problems and data</sub>
+    </td>
+    <td align="center" width="20%">
+      <b>03</b>
+      <br/>
+      <sub>Design practical solutions</sub>
+    </td>
+    <td align="center" width="20%">
+      <b>04</b>
+      <br/>
+      <sub>Develop and integrate</sub>
+    </td>
+    <td align="center" width="20%">
+      <b>05</b>
+      <br/>
+      <sub>Test, deploy, and improve</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core Values
+
 <p align="center">
-  Open to collaboration and new opportunities — feel free to reach out.<br/>
-  <a href="mailto:thanabodee.swd@gmail.com">thanabodee.swd@gmail.com</a> · <a href="https://www.linkedin.com/in/thanabodee-s">LinkedIn</a>
+  <img src="https://img.shields.io/badge/Practical-Solutions-0EA5E9?style=for-the-badge" alt="Practical Solutions"/>
+  <img src="https://img.shields.io/badge/Reliable-Systems-0284C7?style=for-the-badge" alt="Reliable Systems"/>
+  <img src="https://img.shields.io/badge/Continuous-Improvement-0369A1?style=for-the-badge" alt="Continuous Improvement"/>
+  <img src="https://img.shields.io/badge/User--Centered-Development-075985?style=for-the-badge" alt="User-Centered Development"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+---
+
+## Let's Connect
+
+<p align="center">
+  I am open to collaboration, knowledge sharing, and new opportunities in
+  <b>Industry 4.0, MES, Full-Stack Development, AI, and Data Analytics</b>.
+</p>
+
+<p align="center">
+  <a href="mailto:**********.***@*****.***">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thanabodee-s">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building practical digital solutions for smarter manufacturing.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer banner"/>
