@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/thanabodee-s">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:**********.***@*****.***">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/IT-Industry_4.0-0F766E?style=for-the-badge" alt="IT Industry 4.0"/>
@@ -33,22 +33,22 @@ I believe understanding how people actually work is just as important as writing
   <tr>
     <td align="center" width="25%">
       <b>Industry 4.0</b>
-      <br/>
+      <br/><br/>
       <sub>MES · Digital Transformation<br/>Process Automation</sub>
     </td>
     <td align="center" width="25%">
       <b>Software Engineering</b>
-      <br/>
+      <br/><br/>
       <sub>Full-Stack · REST APIs<br/>Database Design</sub>
     </td>
     <td align="center" width="25%">
       <b>AI & Computer Vision</b>
-      <br/>
+      <br/><br/>
       <sub>YOLOv5 · YOLOv8 · YOLO11<br/>OpenCV · Visual Inspection</sub>
     </td>
     <td align="center" width="25%">
       <b>Data & Analytics</b>
-      <br/>
+      <br/><br/>
       <sub>Power BI · SQL<br/>KPI Dashboards</sub>
     </td>
   </tr>
@@ -66,37 +66,55 @@ I support manufacturing digitalization by connecting **production processes, peo
 
 It is a software system used in manufacturing environments to monitor, control, track, and record production processes in real time — from raw materials and work orders through each production operation until the finished product is completed.
 
-MES helps bridge the gap between business-level systems and shop-floor operations by providing accurate production information to operators, engineers, supervisors, and management.
+MES bridges the gap between business-level systems and shop-floor operations by providing accurate production information to operators, engineers, supervisors, and management.
 
 ### Areas of Focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>Production Visibility</h4>
-      <p>Monitoring production status, work orders, output, downtime, and operational performance.</p>
+      <h3 align="center">Production Visibility</h3>
+      <p align="center">
+        Monitoring production status, work orders, output, downtime,
+        and operational performance.
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h4>System Integration</h4>
-      <p>Connecting manufacturing systems with databases, APIs, internal applications, and reporting tools.</p>
+      <h3 align="center">System Integration</h3>
+      <p align="center">
+        Connecting manufacturing systems with databases, APIs,
+        internal applications, and reporting tools.
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h4>Process Automation</h4>
-      <p>Replacing repetitive manual workflows with reliable, efficient, and traceable digital processes.</p>
+      <h3 align="center">Process Automation</h3>
+      <p align="center">
+        Replacing repetitive manual workflows with reliable,
+        efficient, and traceable digital processes.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4>Production Traceability</h4>
-      <p>Supporting the tracking of materials, work orders, production history, and finished products.</p>
+      <h3 align="center">Production Traceability</h3>
+      <p align="center">
+        Tracking materials, work orders, production history,
+        quality records, and finished products.
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h4>Data Visualization</h4>
-      <p>Transforming production data into dashboards, KPIs, reports, and actionable insights.</p>
+      <h3 align="center">Data Visualization</h3>
+      <p align="center">
+        Transforming production data into dashboards,
+        KPIs, reports, and actionable insights.
+      </p>
     </td>
     <td width="33%" valign="top">
-      <h4>Continuous Improvement</h4>
-      <p>Using user feedback and operational data to improve system usability, reliability, and performance.</p>
+      <h3 align="center">Continuous Improvement</h3>
+      <p align="center">
+        Using user feedback and operational data to improve
+        usability, reliability, and performance.
+      </p>
     </td>
   </tr>
 </table>
@@ -134,8 +152,8 @@ Dashboards, KPIs & Decision Support
 
 <table>
   <tr>
-    <td><b>Industry 4.0 / MES</b></td>
-    <td>
+    <td width="22%"><b>Industry 4.0 / MES</b></td>
+    <td width="78%">
       <img src="https://img.shields.io/badge/MES-Manufacturing_Execution-0F766E?style=for-the-badge" height="36" alt="MES"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Industry_4.0-Digital_Manufacturing-0369A1?style=for-the-badge" height="36" alt="Industry 4.0"/>
@@ -144,20 +162,20 @@ Dashboards, KPIs & Decision Support
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
+    <td width="22%"><b>Frontend</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" height="36" alt="HTML, CSS, JavaScript, React, and Next.js"/>
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
-    <td>
+    <td width="22%"><b>Backend</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,dotnet" height="36" alt="Node.js, Express, Python, PHP, C Sharp, and .NET"/>
     </td>
   </tr>
   <tr>
-    <td><b>AI / Computer Vision</b></td>
-    <td>
+    <td width="22%"><b>AI / Computer Vision</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="36" alt="OpenCV, TensorFlow, and PyTorch"/>
       &nbsp;
       <img src="https://img.shields.io/badge/YOLOv5-111827?style=for-the-badge&logo=python&logoColor=white" height="36" alt="YOLOv5"/>
@@ -168,22 +186,22 @@ Dashboards, KPIs & Decision Support
     </td>
   </tr>
   <tr>
-    <td><b>Database</b></td>
-    <td>
+    <td width="22%"><b>Database</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="36" alt="MySQL, MongoDB, and Firebase"/>
       &nbsp;
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="36" alt="SQL Server"/>
     </td>
   </tr>
   <tr>
-    <td><b>Mobile</b></td>
-    <td>
+    <td width="22%"><b>Mobile</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio" height="36" alt="Kotlin, Flutter, Dart, and Android Studio"/>
     </td>
   </tr>
   <tr>
-    <td><b>Data Analytics</b></td>
-    <td>
+    <td width="22%"><b>Data Analytics</b></td>
+    <td width="78%">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="36" alt="Power BI"/>
       &nbsp;
       <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black" height="36" alt="DAX"/>
@@ -192,8 +210,8 @@ Dashboards, KPIs & Decision Support
     </td>
   </tr>
   <tr>
-    <td><b>Design</b></td>
-    <td>
+    <td width="22%"><b>Design</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white" height="36" alt="Canva"/>
@@ -202,8 +220,8 @@ Dashboards, KPIs & Decision Support
     </td>
   </tr>
   <tr>
-    <td><b>Development Tools</b></td>
-    <td>
+    <td width="22%"><b>Development Tools</b></td>
+    <td width="78%">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="36" alt="Git, GitHub, Visual Studio Code, Postman, and Docker"/>
     </td>
   </tr>
@@ -213,7 +231,7 @@ Dashboards, KPIs & Decision Support
 
 ## AI & Computer Vision
 
-I develop computer vision solutions for industrial applications using multiple generations of YOLO models.
+I develop computer vision solutions for industrial applications using multiple generations of YOLO models and OpenCV.
 
 <table>
   <tr>
@@ -233,8 +251,8 @@ I develop computer vision solutions for industrial applications using multiple g
   </tr>
   <tr>
     <td align="center"><b>YOLO11</b></td>
-    <td>Model experimentation, evaluation, and real-time inference</td>
-    <td>Modern object detection and model comparison</td>
+    <td>Model experimentation, evaluation, comparison, and real-time inference</td>
+    <td>Modern object detection and performance comparison</td>
   </tr>
   <tr>
     <td align="center"><b>OpenCV</b></td>
@@ -245,18 +263,71 @@ I develop computer vision solutions for industrial applications using multiple g
 
 ### Computer Vision Workflow
 
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h2>01</h2>
+      <img src="https://img.shields.io/badge/COLLECT_DATA-0EA5E9?style=for-the-badge" alt="Collect Data"/>
+      <br/><br/>
+      <sub>
+        Capture and organize images from cameras,
+        datasets, and real operating conditions.
+      </sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h2>02</h2>
+      <img src="https://img.shields.io/badge/LABEL_DATA-0284C7?style=for-the-badge" alt="Label Data"/>
+      <br/><br/>
+      <sub>
+        Annotate objects and prepare training,
+        validation, and testing datasets.
+      </sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h2>03</h2>
+      <img src="https://img.shields.io/badge/TRAIN_MODEL-0369A1?style=for-the-badge" alt="Train Model"/>
+      <br/><br/>
+      <sub>
+        Train and fine-tune YOLO models
+        using custom industrial datasets.
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h2>04</h2>
+      <img src="https://img.shields.io/badge/EVALUATE-075985?style=for-the-badge" alt="Evaluate"/>
+      <br/><br/>
+      <sub>
+        Measure precision, recall, mAP,
+        inference speed, and reliability.
+      </sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h2>05</h2>
+      <img src="https://img.shields.io/badge/INTEGRATE-0C4A6E?style=for-the-badge" alt="Integrate"/>
+      <br/><br/>
+      <sub>
+        Connect models with cameras,
+        applications, databases, and production systems.
+      </sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h2>06</h2>
+      <img src="https://img.shields.io/badge/IMPROVE-082F49?style=for-the-badge" alt="Improve"/>
+      <br/><br/>
+      <sub>
+        Monitor results, collect feedback,
+        retrain models, and improve performance.
+      </sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/1-Collect_Data-0EA5E9?style=for-the-badge" alt="Collect data"/>
-  ➜
-  <img src="https://img.shields.io/badge/2-Label_Data-0284C7?style=for-the-badge" alt="Label data"/>
-  ➜
-  <img src="https://img.shields.io/badge/3-Train_Model-0369A1?style=for-the-badge" alt="Train model"/>
-  ➜
-  <img src="https://img.shields.io/badge/4-Evaluate-075985?style=for-the-badge" alt="Evaluate"/>
-  ➜
-  <img src="https://img.shields.io/badge/5-Integrate-0C4A6E?style=for-the-badge" alt="Integrate"/>
-  ➜
-  <img src="https://img.shields.io/badge/6-Improve-082F49?style=for-the-badge" alt="Improve"/>
+  <sub>
+    From real-world data collection to continuous model improvement
+  </sub>
 </p>
 
 ---
@@ -277,7 +348,11 @@ I develop computer vision solutions for industrial applications using multiple g
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
         <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API"/>
       </p>
-      <sub>✔ Production support &nbsp;✔ Data integration &nbsp;✔ Process improvement</sub>
+      <sub>
+        ✔ Production support
+        &nbsp;✔ Data integration
+        &nbsp;✔ Process improvement
+      </sub>
     </td>
     <td width="50%" valign="top">
       <h3>Production Monitoring Dashboard</h3>
@@ -290,7 +365,11 @@ I develop computer vision solutions for industrial applications using multiple g
         <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" alt="DAX"/>
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
       </p>
-      <sub>✔ Production KPIs &nbsp;✔ Data visualization &nbsp;✔ Decision support</sub>
+      <sub>
+        ✔ Production KPIs
+        &nbsp;✔ Data visualization
+        &nbsp;✔ Decision support
+      </sub>
     </td>
   </tr>
   <tr>
@@ -307,7 +386,12 @@ I develop computer vision solutions for industrial applications using multiple g
         <img src="https://img.shields.io/badge/YOLO11-7C3AED?style=flat-square&logoColor=white" alt="YOLO11"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
       </p>
-      <sub>✔ Real-time detection &nbsp;✔ Camera control &nbsp;✔ Model comparison &nbsp;✔ Result visualization</sub>
+      <sub>
+        ✔ Real-time detection
+        &nbsp;✔ Camera control
+        &nbsp;✔ Model comparison
+        &nbsp;✔ Result visualization
+      </sub>
     </td>
     <td width="50%" valign="top">
       <h3>Business Data Dashboards</h3>
@@ -320,7 +404,11 @@ I develop computer vision solutions for industrial applications using multiple g
         <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" alt="DAX"/>
         <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
       </p>
-      <sub>✔ Data transformation &nbsp;✔ Interactive KPIs &nbsp;✔ Business reporting</sub>
+      <sub>
+        ✔ Data transformation
+        &nbsp;✔ Interactive KPIs
+        &nbsp;✔ Business reporting
+      </sub>
     </td>
   </tr>
   <tr>
@@ -336,7 +424,11 @@ I develop computer vision solutions for industrial applications using multiple g
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
       </p>
-      <sub>✔ CRUD workflows &nbsp;✔ Role-based access &nbsp;✔ REST API</sub>
+      <sub>
+        ✔ CRUD workflows
+        &nbsp;✔ Role-based access
+        &nbsp;✔ REST API
+      </sub>
     </td>
     <td width="50%" valign="top">
       <h3>Phone Number Management App</h3>
@@ -349,7 +441,10 @@ I develop computer vision solutions for industrial applications using multiple g
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
       </p>
-      <sub>✔ Add, edit, and delete &nbsp;✔ Realtime Database sync</sub>
+      <sub>
+        ✔ Add, edit, and delete
+        &nbsp;✔ Realtime Database sync
+      </sub>
     </td>
   </tr>
 </table>
@@ -395,19 +490,46 @@ I believe successful Industry 4.0 solutions are not only about adopting new tech
 
 ## How I Work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/1-Understand-0EA5E9?style=for-the-badge" alt="Understand"/>
-  ➜
-  <img src="https://img.shields.io/badge/2-Analyze-0284C7?style=for-the-badge" alt="Analyze"/>
-  ➜
-  <img src="https://img.shields.io/badge/3-Design-0369A1?style=for-the-badge" alt="Design"/>
-  ➜
-  <img src="https://img.shields.io/badge/4-Develop-075985?style=for-the-badge" alt="Develop"/>
-  ➜
-  <img src="https://img.shields.io/badge/5-Test-0C4A6E?style=for-the-badge" alt="Test"/>
-  ➜
-  <img src="https://img.shields.io/badge/6-Improve-082F49?style=for-the-badge" alt="Improve"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="16.66%">
+      <h3>01</h3>
+      <b>Understand</b>
+      <br/><br/>
+      <sub>Learn the users, requirements, and real workflow</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <h3>02</h3>
+      <b>Analyze</b>
+      <br/><br/>
+      <sub>Identify problems, constraints, risks, and data</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <h3>03</h3>
+      <b>Design</b>
+      <br/><br/>
+      <sub>Create a practical and maintainable solution</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <h3>04</h3>
+      <b>Develop</b>
+      <br/><br/>
+      <sub>Build applications, APIs, databases, and integrations</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <h3>05</h3>
+      <b>Test</b>
+      <br/><br/>
+      <sub>Validate functionality, usability, and reliability</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <h3>06</h3>
+      <b>Improve</b>
+      <br/><br/>
+      <sub>Monitor results and continuously improve the system</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <i>
@@ -437,7 +559,7 @@ I believe successful Industry 4.0 solutions are not only about adopting new tech
 </p>
 
 <p align="center">
-  <a href="mailto:**********.***@*****.***">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
   </a>
   <a href="https://www.linkedin.com/in/thanabodee-s">
