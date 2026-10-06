@@ -21,6 +21,8 @@
 
 Hi, I'm **Thanabodee Sawatdee** — an IT Industry 4.0 professional and software developer with a B.Sc. in Computer and Information Science.
 
+> **Currently:** MES/IT Programmer at **SUPAVUT**, building in-house web systems that move quality and production workflows from paper and Excel to real-time digital processes.
+
 I work at the intersection of **information technology and manufacturing**, supporting digital transformation through Manufacturing Execution Systems (MES), internal web applications, production data integration, reporting dashboards, process automation, and AI-powered solutions.
 
 My technical experience covers the full software development lifecycle — from understanding business and production requirements to designing user interfaces and databases, developing APIs and applications, testing with users, deploying solutions, and continuously improving system performance.
@@ -148,6 +150,35 @@ Dashboards, KPIs & Decision Support
 
 ---
 
+## Experience
+
+<table>
+  <tr>
+    <td width="22%" valign="top"><b>Jul 2026 – Present</b></td>
+    <td width="78%">
+      <b>MES/IT Programmer</b> · SUPAVUT
+      <br/>
+      <sub>
+        Build and support internal web systems for QC and QA, with workflows shared with Production and Store.
+        Own each system end to end: requirements, database design, development, testing, deployment, and user support.
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><b>2024 – 2025</b></td>
+    <td width="78%">
+      <b>UX/UI Design and Graphic Design Intern</b> · Bosch Automotive Thailand
+      <br/>
+      <sub>
+        Designed industry-standard interfaces, built Power BI dashboards with DAX, and developed a
+        YOLO-based Vision AI application for real-time detection of industrial parts.
+      </sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Stack
 
 <table>
@@ -223,6 +254,8 @@ Dashboards, KPIs & Decision Support
     <td width="22%"><b>Development Tools</b></td>
     <td width="78%">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" height="36" alt="Git, GitHub, Visual Studio Code, Postman, and Docker"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="36" alt="Playwright"/>
     </td>
   </tr>
 </table>
@@ -334,26 +367,93 @@ I develop computer vision solutions for industrial applications using multiple g
 
 ## Selected Projects
 
+### Industry 4.0 Systems at Work
+
+<sub>Internal systems are described in general terms; source code and company data are confidential.</sub>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Manufacturing Execution System Support</h3>
+      <h3>Quality Issue and NCR Management</h3>
       <p>
-        IT solutions for supporting manufacturing operations, production data visibility,
-        process traceability, and communication between shop-floor users and digital systems.
+        A paperless system for recording and following up on daily quality problems.
+        Automatic email alerts notify the right people, and Production replies with root cause
+        and corrective action directly in the system, closing the loop between teams.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/MES-0F766E?style=flat-square" alt="MES"/>
-        <img src="https://img.shields.io/badge/Industry_4.0-0369A1?style=flat-square" alt="Industry 4.0"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
       <sub>
-        ✔ Production support
-        &nbsp;✔ Data integration
-        &nbsp;✔ Process improvement
+        ✔ Email alerts and replies
+        &nbsp;✔ Live dashboards
+        &nbsp;✔ One-click PowerPoint/Excel reports
+        &nbsp;✔ Over 90% faster page loads
       </sub>
     </td>
+    <td width="50%" valign="top">
+      <h3>Quality Hold and Recheck System</h3>
+      <p>
+        A multi-step digital workflow connecting QC, Production, and Store, giving full
+        traceability for every part on hold from request to release.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <sub>
+        ✔ Barcode scanning
+        &nbsp;✔ Role-based access
+        &nbsp;✔ Notifications
+        &nbsp;✔ Photo evidence
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Sample Part Lifecycle Tracking</h3>
+      <p>
+        Replaced manual spreadsheets across several production lines with automatic
+        expiry monitoring, color alerts, and a complete renewal history.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <sub>
+        ✔ Automatic expiry dates
+        &nbsp;✔ Color alerts
+        &nbsp;✔ Excel data import
+      </sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Sample Inventory and Borrow/Return</h3>
+      <p>
+        Real-time visibility of where each sample is stored, who borrowed it,
+        and when it was returned, with a full audit trail.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <sub>
+        ✔ Shelf mapping
+        &nbsp;✔ Audit trail
+        &nbsp;✔ Stock dashboard
+      </sub>
+    </td>
+  </tr>
+</table>
+
+### Other Projects
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3>Production Monitoring Dashboard</h3>
       <p>
@@ -371,8 +471,6 @@ I develop computer vision solutions for industrial applications using multiple g
         &nbsp;✔ Decision support
       </sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Vision AI Object Detection</h3>
       <p>
@@ -393,6 +491,8 @@ I develop computer vision solutions for industrial applications using multiple g
         &nbsp;✔ Result visualization
       </sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Business Data Dashboards</h3>
       <p>
@@ -410,8 +510,6 @@ I develop computer vision solutions for industrial applications using multiple g
         &nbsp;✔ Business reporting
       </sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Employee Management System</h3>
       <p>
@@ -430,7 +528,9 @@ I develop computer vision solutions for industrial applications using multiple g
         &nbsp;✔ REST API
       </sub>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>Phone Number Management App</h3>
       <p>
         A native Android application for storing and managing contact information
