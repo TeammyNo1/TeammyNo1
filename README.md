@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/thanabodee-s">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:thanabodee.swd@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/IT-Industry_4.0-0F766E?style=for-the-badge" alt="IT Industry 4.0"/>
@@ -659,7 +659,7 @@ I believe successful Industry 4.0 solutions are not only about adopting new tech
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:thanabodee.swd@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
   </a>
   <a href="https://www.linkedin.com/in/thanabodee-s">
